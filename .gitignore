@@ -1,0 +1,16 @@
+*.tmp
+*.htm
+*.html
+*.crf
+*.d
+*.lnp
+*.map
+*.o
+*.sct
+*.dep
+**/DebugConfig/
+**/*.uvguix.*
+**/*.uvoptx
+/MXTmpFiles
+*.ftl
+*.ftl_save
